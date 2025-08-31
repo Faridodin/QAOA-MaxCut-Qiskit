@@ -1,2 +1,2 @@
 # QAOA-MaxCut-Qiskit
-Quantum Approximate Optimization Algorithm (QAOA) implementation using Qiskit for Maxut problem. 
+A simple implementation example and initial introduction to the Quantum Approximate Optimization Algorithm (QAOA) using Qiskit for the Maxut problem.
